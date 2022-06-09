@@ -7,4 +7,10 @@ public class functionalTest {
 	public String getGoodee() {
 		return "goodee";
 	}
+	
+	public int getAge() {
+		return 19;
+	}
+	
+	
 }
